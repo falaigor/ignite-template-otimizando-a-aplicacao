@@ -1,4 +1,4 @@
-import { List, AutoSizer, ListRowRenderer } from "react-virtualized";
+import { List, ListRowRenderer } from "react-virtualized";
 import { Button } from "./Button";
 
 interface SideBarProps {
